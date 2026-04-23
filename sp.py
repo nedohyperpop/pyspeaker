@@ -302,6 +302,7 @@ def show_help(script):
 Usage:
   {script} <cells>
 
+(( github.com/nedohyperpop/pyspeaker ))
 Format:
   440-100        freq-duration(ms)
   A4-100         note-duration
